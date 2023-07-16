@@ -1,0 +1,34 @@
+[
+  {
+    "status": "success",
+    "country": "Ukraine",
+    "countryCode": "UA",
+    "region": "30",
+    "regionName": "Kyiv City",
+    "city": "Kyiv",
+    "zip": "03045",
+    "lat": 50.458,
+    "lon": 30.5303,
+    "timezone": "Europe/Kyiv",
+    "isp": "DOMASHKA.NET",
+    "org": "Domashnya Merezha, LLC",
+    "as": "AS15683 \"AS6723\" LIMITED LIABILITY COMPANY",
+    "query": "78.27.145.8"
+  },
+  {
+    "status": "success",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "region": "ENG",
+    "regionName": "England",
+    "city": "Slough",
+    "zip": "SL1",
+    "lat": 51.5368,
+    "lon": -0.6718,
+    "timezone": "Europe/London",
+    "isp": "DigitalOcean, LLC",
+    "org": "DigitalOcean, LLC",
+    "as": "AS14061 DigitalOcean, LLC",
+    "query": "165.227.227.25"
+  }
+]
